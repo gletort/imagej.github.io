@@ -40,7 +40,7 @@ There are many ways to get cellpose installed. We give a subset of them in the [
 - The user interface does not allow setting the flow threshold and the probability threshold. The default values are used.
 
 ## Usage
-
+ 
 
 #### cellpose parameters in the TrackMate UI
 
